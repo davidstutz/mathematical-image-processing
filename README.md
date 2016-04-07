@@ -2,7 +2,7 @@
 
 This repository contains programming exercises corresponding to the lectures "Mathematical Foundations of Image Processing" and "Variational Methods in Image Processing" held by [Prof. Berkes]() at RWTH Aachen University. The corresponding assignments can be found in the following article:
 
-    [1] 
+    [1] http://davidstutz.de/programming-exercises-for-mathematical-image-processing/
 
 The assignments have been completed together with [Tobias Pohlen](http://geekstack.net/).
 
@@ -24,7 +24,7 @@ The C++ examples are built using CMake and based on OpenCV; see the official [Op
 
 For license details of the various variants of the Lenna image, see [here](http://en.wikipedia.org/wiki/Lenna#mediaviewer/File:Lenna.png).
 
-Copyright (c) 2016, David Stutz All rights reserved.
+Copyright (c) 2016, David Stutz and Tobias Pohlen. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
