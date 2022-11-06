@@ -1,6 +1,6 @@
 # Programming Exercises for Mathematical Image Processing
 
-This repository contains programming exercises corresponding to the lectures "Mathematical Foundations of Image Processing" and "Variational Methods in Image Processing" held by [Prof. Berkes]() at RWTH Aachen University. The corresponding assignments can be found in the following article:
+This repository contains programming exercises corresponding to the lectures "Mathematical Foundations of Image Processing" and "Variational Methods in Image Processing" held by [Prof. Berkels](https://www.aices.rwth-aachen.de/en/people/berkels) at RWTH Aachen University. The corresponding assignments can be found in the following article:
 
     [1] http://davidstutz.de/programming-exercises-for-mathematical-image-processing/
 
