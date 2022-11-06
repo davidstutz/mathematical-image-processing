@@ -10,7 +10,7 @@ The examples have been tested using MatLab 2014b on Ubuntu 12.04 with OpenCV 2.4
 
 ## Building
 
-The C++ examples are built using CMake and based on OpenCV; see the official [OpenCV installation instructions]():
+The C++ examples are built using CMake and based on OpenCV:
 
     cd mathematical-image-processing
     cd filters
